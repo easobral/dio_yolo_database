@@ -1,0 +1,5 @@
+train: /path/to/dataset/images/train
+val: /path/to/dataset/images/val
+nc: 1  # Number of classes
+names: ["Chicken"]
+datasets/images/val/IMG_0577.JPG
